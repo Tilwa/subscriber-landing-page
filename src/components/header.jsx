@@ -1,7 +1,8 @@
 export const Header = (props) => {
   return (
-    <header id='header'>
-      <div className='intro'>
+    <header id='header' >
+      <div className='intro' style={{backgroundColor: "skyblue"}} >
+  
         <div className='overlay'>
           <div className='container'>
             <div className='row'>
